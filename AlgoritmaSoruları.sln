@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.DizidekiKesişim", "8.Diz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.İkiDizininBirleşimi", "9.İkiDizininBirleşimi\9.İkiDizininBirleşimi.csproj", "{28D6E65C-7D18-4FBE-9047-809DB9B0AB52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.BirDizideEnÇokTekrarEdenEleman", "10.BirDizideEnÇokTekrarEdenEleman\10.BirDizideEnÇokTekrarEdenEleman.csproj", "{1CEBC692-4D91-4C0C-B456-D821B0283774}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{28D6E65C-7D18-4FBE-9047-809DB9B0AB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28D6E65C-7D18-4FBE-9047-809DB9B0AB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28D6E65C-7D18-4FBE-9047-809DB9B0AB52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CEBC692-4D91-4C0C-B456-D821B0283774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CEBC692-4D91-4C0C-B456-D821B0283774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CEBC692-4D91-4C0C-B456-D821B0283774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CEBC692-4D91-4C0C-B456-D821B0283774}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
